@@ -3,8 +3,10 @@
 
 = Logging samples
 
-[role="_abstract"]
 Review logging samples for various API operations (CRUD, sync, and the like) to understand the expected audit format and efficiently monitor resource changes.
+
+.Random block title
+For no reason.
 
 Rulebook activation::
 ----
